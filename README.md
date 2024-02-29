@@ -7,4 +7,4 @@ My Name is Ismail KhosrowShiri
 
 ◽I'm interested in learning React native and Python.
 
-◽How to reach me: ismailkhosrowshiri@gmail.com, t.me/@i_khosrow
+◽How to reach me: ismailkhosrowshiri@gmail.com,https://t.me/i_khosrow
