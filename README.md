@@ -130,6 +130,9 @@ I believe consistent practice and building real projects are essential to becomi
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ismail-khosrowshiri-b8b0741b2/)
 - 🐙 [GitHub](https://github.com/ismailkhosrowshiri)
+- 💬 [Stack Overflow](https://stackoverflow.com/users/15431457/ismailkhosrowshiri)
+- 🧩 [Exercism](https://exercism.org/profiles/ismailkhosrowshiri)
+- 𝕏 [X](https://x.com/ismail_khosrow)
 
 ---
 
