@@ -109,7 +109,6 @@ More Python projects will be added as I progress.
 
 My long-term goal is to become an AI Engineer specializing in building practical AI-powered applications and autonomous agents.
 
-One of my main project ideas is an intelligent AI assistant for the clothing retail industry.
 
 I want to explore how AI agents can:
 
