@@ -1,30 +1,37 @@
 # 👋 Hi, I'm Ismail Khosrowshiri
 
-### Frontend Developer → Aspiring AI Engineer
+### Frontend Developer | Transitioning into AI Engineering
 
-I'm a software developer with a background in Frontend Development, currently expanding my knowledge into **Artificial Intelligence and AI Engineering**.
+I'm a software developer with **2 years of professional frontend development experience**, now building a strong foundation in Python and AI Engineering.
 
-After gaining 2 years of professional experience working on real-world frontend projects, I'm now focusing on Python, Large Language Models, AI Agents, and building intelligent applications.
+I enjoy turning ideas into practical software, learning through hands-on projects, and exploring how AI can solve real-world problems.
 
-I believe in learning by building, experimenting, and turning knowledge into practical projects.
+---
+
+## 💼 Professional Experience
+
+### Jabiz Parda — Frontend Developer
+**Full-time · Remote · 2 years**
+
+Worked as a full-time remote frontend developer at Jabiz Parda for two years, contributing to real-world software projects.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 2 years of professional Frontend Development experience.
-- 🤖 Currently learning AI Engineering and AI Agent Development.
-- 🐍 Learning Python and strengthening my programming fundamentals.
-- 🧠 Interested in LLMs, RAG, Agentic AI, and Multi-Agent Systems.
-- 🔧 Experienced with modern frontend technologies.
-- 📚 Following a structured 28-week AI Engineering roadmap.
-- 🎯 Goal: Become an AI Engineer capable of building production-ready AI applications and intelligent agents.
+- 💻 2 years of professional, full-time remote frontend development experience.
+- 🧩 Professional experience with HTML, CSS, JavaScript, React, TypeScript, and Angular.
+- 🐍 Currently learning Python and strengthening my programming fundamentals.
+- 🤖 Building toward a career in AI Engineering and AI Agent development.
+- 🧠 Interested in LLMs, RAG, AI Agents, and Multi-Agent Systems.
+- 📚 Following a structured 28-week AI Engineering learning roadmap.
+- 🎯 Long-term goal: build reliable, practical AI applications and intelligent agents.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
-### Frontend Development
+### Frontend — Professional Experience
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,18 +40,24 @@ I believe in learning by building, experimenting, and turning knowledge into pra
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### AI & Backend — Currently Learning
+### Currently Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### Exploring Next
+
+Python backend development, FastAPI, LLM APIs, RAG, vector databases, LangChain, LangGraph, tool calling, Docker, and AI application deployment.
+
 ---
 
-## 🧠 My AI Engineering Roadmap
+## 🧠 AI Engineering Learning Roadmap
 
-I'm following a structured learning roadmap with approximately 15 hours of study per week.
+I'm following a structured roadmap with approximately **15 hours of study per week**.
 
 | Stage | Learning Path | Status |
 |---|---|---|
@@ -57,89 +70,67 @@ I'm following a structured learning roadmap with approximately 15 hours of study
 | 07 | Final AI Engineering Project | ⏳ Upcoming |
 | 08 | Portfolio & Professional Development | ⏳ Upcoming |
 
-### Technologies I Plan to Explore
-
-- Python
-- OpenAI-compatible APIs
-- Prompt Engineering
-- RAG
-- Vector Databases
-- LangChain
-- LangGraph
-- Tool Calling
-- Multi-Agent Architectures
-- FastAPI
-- Docker
-- AI Application Deployment
-
 ---
 
-## 💻 What I'm Currently Working On
+## 💻 Current Learning & Projects
 
 ### 🐍 Python Programming
 
-Building a strong Python foundation through practical exercises and small projects.
+Building a solid Python foundation through practical exercises and small projects.
 
-Currently practicing:
+Current topics include:
 
-- Variables and Data Types
-- Strings and Lists
-- Loops and Conditions
+- Variables and data types
+- Strings and lists
+- Loops and conditional statements
 - Functions
-- List Manipulation
-- Problem Solving
-- Basic Algorithms
+- List manipulation
+- Problem solving and basic algorithms
 
-### 🔐 Python Caesar Cipher
+### 🔐 Caesar Cipher
 
-Implementing a Caesar Cipher project to practice:
+A Python practice project focused on:
 
 - String manipulation
 - List indexing
-- Loops
-- Conditional statements
+- Loops and conditionals
 - Character shifting
 - Basic encryption and decryption logic
 
-More Python projects will be added as I progress.
+More projects will be added as I progress.
 
 ---
 
-## 🎯 My Long-Term Vision
+## 🎯 Long-Term Goal
 
-My long-term goal is to become an AI Engineer specializing in building practical AI-powered applications and autonomous agents.
+My goal is to become an AI Engineer focused on practical AI-powered applications and intelligent agents.
 
-
-I want to explore how AI agents can:
+I'm especially interested in AI systems that can:
 
 - Understand customer requests.
 - Search and recommend products.
-- Retrieve information from databases.
-- Interact with external APIs and tools.
-- Automate repetitive business operations.
-- Execute multi-step tasks intelligently.
+- Retrieve information from structured and unstructured data.
+- Interact with APIs and external tools.
+- Automate repetitive business workflows.
+- Complete multi-step tasks reliably.
 
-I am particularly interested in moving beyond simple chatbots and developing useful AI systems that solve real business problems.
+One area I'd like to explore is an AI assistant for clothing retail that can help customers discover products and support store operations.
 
 ---
 
-## 📈 My Development Philosophy
+## 📈 Development Philosophy
 
 **Learn → Build → Experiment → Improve → Repeat**
 
-I believe that the best way to become a better engineer is through consistent practice and building real projects.
-
-This GitHub profile is where I document my progress, share my experiments, and showcase the projects I build throughout my journey.
+I believe consistent practice and building real projects are essential to becoming a better engineer. This profile documents my learning, experiments, and projects along the way.
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ismail-khosrowshiri/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ismail-khosrowshiri-b8b0741b2/)
 - 🐙 [GitHub](https://github.com/ismailkhosrowshiri)
 
 ---
 
 ### ⭐ Always Learning, Always Building.
-
-Thanks for visiting my GitHub profile!
